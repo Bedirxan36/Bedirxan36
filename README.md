@@ -5,9 +5,9 @@
 
 ## 🚀 Hakkımda / About Me
 
-🇹🇷 Merhaba, ben Bedirxan Doğan. 16 yaşında bir yazılım geliştiriciyim. Kendimi .NET dünyasında geliştirmek istiyorum. Yüksek performanslı, modern tekniklere uygun ve düzenli bir şekilde çalışıyorum. Servis uygulamaları, yönetim sistemleri ve benzeri projeler geliştiriyor ve üretiyorum.
+🇹🇷 **Merhaba**, ben **Bedirxan Doğan**. 16 yaşında bir yazılım geliştiriciyim. Kendimi özellikle **.NET** dünyasında geliştirmeye odaklandım. Modern yazılım tekniklerini takip ederim, yüksek performanslı ve temiz kod odaklı projeler üretirim. Servis uygulamaları, yönetim sistemleri ve benzeri yazılımlar geliştiriyorum.
 
-🌐 Hello, I'm Eren Arif Kargalıoğlu, a 16-year-old software developer. I aim to become proficient in the .NET ecosystem. I work in an organized manner, focusing on high-performance and modern software development techniques. I develop and produce service applications, management systems, and similar projects.
+🌐 **Hello**, I'm **Bedirxan Doğan**, a 16-year-old software developer. I'm focused on improving myself in the **.NET** ecosystem. I work in a clean, organized, and high-performance manner using modern software practices. I develop service applications, management systems, and similar software projects.
 
 ---
 
@@ -34,8 +34,8 @@
 - 🔁 CQRS & MediatR
 - 🔧 Clean Architecture (Onion / Hexagonal)
 - 📬 Event-driven systems (RabbitMQ, SignalR)
-- 📦 Applications
-- 📘 Interface Design
+- 📦 Uygulama Geliştirme
+- 📘 Arayüz Tasarımı
 
 ---
 
