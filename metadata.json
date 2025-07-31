@@ -1,0 +1,5 @@
+
+{
+  "name": "PC Remote Control",
+  "description": "A web application to remotely control your computer from your phone. Enter the IP address and access key provided by the server application on your PC to connect and manage media, power, and more."
+}
