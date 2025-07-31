@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PC Kontrol</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="loginPage">
+    <h2>Bilgisayar Bağlantısı</h2>
+    <input type="text" id="ip" placeholder="IP adresini gir" />
+    <input type="password" id="key" placeholder="Güvenlik şifresi" />
+    <button onclick="connect()">Bağlan</button>
+    <p id="loginStatus"></p>
+  </div>
+
+  <div id="controlPage" style="display: none">
+    <h2>Kontrol Paneli</h2>
+    <button onclick="sendCommand('volume_up')">🔊 Ses Aç</button>
+    <button onclick="sendCommand('volume_down')">🔉 Ses Kıs</button>
+    <button onclick="sendCommand('shutdown')">⛔ Bilgisayarı Kapat</button>
+    <button onclick="sendCommand('restart')">🔁 Yeniden Başlat</button>
+    <button onclick="sendCommand('open_chrome')">🌐 Chrome Aç</button>
+    <button onclick="sendCommand('open_vscode')">🖥️ VS Code Aç</button>
+    <br /><br />
+    <button onclick="disconnect()">Bağlantıyı Kes</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
