@@ -5,9 +5,9 @@
 
 ## 🚀 Hakkımda / About Me
 
-🇹🇷 **Merhaba**, ben **Bedirxan Doğan**. 16 yaşında bir yazılım geliştiriciyim. Kendimi özellikle **.NET** dünyasında geliştirmeye odaklandım. Modern yazılım tekniklerini takip ederim, yüksek performanslı ve temiz kod odaklı projeler üretirim. Servis uygulamaları, yönetim sistemleri ve benzeri yazılımlar geliştiriyorum.
+🇹🇷 **Merhaba**, ben **Bedirxan Doğan**. 17 yaşında bir yazılım geliştiriciyim. Kendimi özellikle **.NET** dünyasında geliştirmeye odaklandım. Modern yazılım tekniklerini takip ederim, yüksek performanslı ve temiz kod odaklı projeler üretirim. Servis uygulamaları, yönetim sistemleri ve benzeri yazılımlar geliştiriyorum.
 
-🌐 **Hello**, I'm **Bedirxan Doğan**, a 16-year-old software developer. I'm focused on improving myself in the **.NET** ecosystem. I work in a clean, organized, and high-performance manner using modern software practices. I develop service applications, management systems, and similar software projects.
+🌐 **Hello**, I'm **Bedirxan Doğan**, a 17-year-old software developer. I'm focused on improving myself in the **.NET** ecosystem. I work in a clean, organized, and high-performance manner using modern software practices. I develop service applications, management systems, and similar software projects.
 
 ---
 
