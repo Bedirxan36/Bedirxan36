@@ -1,31 +1,63 @@
-<!-- Contribution Snake -->
+<!-- 🐍 Contribution Snake (Auto Generated) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" 
+      src="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <h1 align="center">Bedirhan Doğan</h1>
-<p align="center">Software Developer | .NET Enthusiast | Clean Code Advocate</p>
+<p align="center">
+  <b>Software Developer</b> • <b>.NET Enthusiast</b> • <b>Clean Architecture Advocate</b>
+</p>
 
 ---
 
 ## 🚀 Hakkımda / About Me
 
-🇹🇷 **Merhaba**, ben **Bedirhan Doğan**. 17 yaşında bir yazılım geliştiriciyim. Kendimi özellikle **.NET** dünyasında geliştirmeye odaklandım. Modern yazılım tekniklerini takip ederim, yüksek performanslı ve temiz kod odaklı projeler üretirim. Servis uygulamaları, yönetim sistemleri ve benzeri yazılımlar geliştiriyorum.
+🇹🇷 **Merhaba**, ben **Bedirhan Doğan**. 17 yaşında bir yazılım geliştiriciyim.  
+.NET ekosisteminde Clean Architecture, CQRS ve modern backend sistemleri üzerine çalışıyorum.  
+Yüksek performanslı, ölçeklenebilir ve temiz kod odaklı projeler geliştiriyorum.
 
-🌐 **Hello**, I'm **Bedirhan Doğan**, a 17-year-old software developer. I'm focused on improving myself in the **.NET** ecosystem. I work in a clean, organized, and high-performance manner using modern software practices. I develop service applications, management systems, and similar software projects.
+🌐 **Hello**, I'm **Bedirhan Doğan**, a 17-year-old software developer focused on the **.NET ecosystem**.  
+I build scalable, high-performance applications using modern software principles.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bedirxan36&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bedirxan36&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bedirxan36&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bedirxan36&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedirxan36&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧰 Kullandığım Teknolojiler / Tech Stack
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bedirxan36&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ⚡ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bedirxan36&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -48,12 +80,12 @@
 - 🔁 CQRS & MediatR  
 - 🔧 Clean Architecture (Onion / Hexagonal)  
 - 📬 Event-driven systems (RabbitMQ, SignalR)  
-- 📦 Application Development  
-- 📘 UI / Interface Design  
+- 📦 Backend & Service Development  
+- 🎨 Modern UI Design  
 
 ---
 
-## 📫 İletişim / Contact
+## 📫 Contact
 
 <div align="center">
 
@@ -66,5 +98,5 @@
 ---
 
 <p align="center">
-  ⭐ Daha fazlası için projelerime göz at
+  ⭐ Check out my repositories for more
 </p>
