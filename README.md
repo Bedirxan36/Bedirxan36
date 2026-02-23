@@ -37,14 +37,6 @@ I build backend services, management systems, and event-driven architectures.
 
 ---
 
-## 🐍 Katkı Faaliyeti
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -103,11 +95,6 @@ I build backend services, management systems, and event-driven architectures.
 ---
 
 ## 🐍 Katkı Faaliyeti
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Syrins/Syrins/output/syrins-neon-dark.svg" alt="Neon Dark Animation" width="850px" />
 </div>
