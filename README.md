@@ -55,6 +55,12 @@ I build backend services, management systems, and event-driven architectures.
   <img src="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Syrins/Syrins/output/syrins-neon-dark.svg" width="900px" />
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
