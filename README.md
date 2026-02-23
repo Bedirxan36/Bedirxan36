@@ -37,6 +37,14 @@ I build backend services, management systems, and event-driven architectures.
 
 ---
 
+## 🐍 Katkı Faaliyeti
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -82,17 +90,6 @@ I build backend services, management systems, and event-driven architectures.
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-1f1f1f?style=for-the-badge&logo=parrot-security&logoColor=05c7f2)
 
 </div>
-
----
-
-## 🏗️ Architectural Interests
-
-- 🔁 CQRS Pattern  
-- 🧱 Clean Architecture (Onion / Hexagonal)  
-- 📬 Event-Driven Systems  
-- ⚡ High Performance Backend Services  
-- 🎨 UI / Interface Design Principles  
-- 🧩 Modular & Scalable System Design  
 
 ---
 
