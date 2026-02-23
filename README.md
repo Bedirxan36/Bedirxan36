@@ -10,18 +10,6 @@
 
 ---
 
-<!-- ==================== BADGES ==================== -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bedirxan36&color=7F5AF0&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Bedirxan36?style=for-the-badge&color=6a11cb)
-![Stars](https://img.shields.io/github/stars/Bedirxan36?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2575fc)
-
-</div>
-
----
-
 # 👨‍💻 Bedirhan Doğan  
 
 <div align="center">
@@ -46,20 +34,6 @@ Hello, I'm **Bedirhan Doğan**, a 17-year-old software developer focused on mast
 
 I prioritize clean architecture, scalable systems, and high-performance applications.  
 I build backend services, management systems, and event-driven architectures.
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Syrins/Syrins/output/syrins-neon-dark.svg" width="900px" />
-</div>
 
 ---
 
