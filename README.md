@@ -1,3 +1,8 @@
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bedirxan36/Bedirxan36/output/github-contribution-grid-snake.svg" />
+</p>
+
 <h1 align="center">Bedirhan Doğan</h1>
 <p align="center">Software Developer | .NET Enthusiast | Clean Code Advocate</p>
 
@@ -8,6 +13,15 @@
 🇹🇷 **Merhaba**, ben **Bedirhan Doğan**. 17 yaşında bir yazılım geliştiriciyim. Kendimi özellikle **.NET** dünyasında geliştirmeye odaklandım. Modern yazılım tekniklerini takip ederim, yüksek performanslı ve temiz kod odaklı projeler üretirim. Servis uygulamaları, yönetim sistemleri ve benzeri yazılımlar geliştiriyorum.
 
 🌐 **Hello**, I'm **Bedirhan Doğan**, a 17-year-old software developer. I'm focused on improving myself in the **.NET** ecosystem. I work in a clean, organized, and high-performance manner using modern software practices. I develop service applications, management systems, and similar software projects.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bedirxan36&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bedirxan36&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -27,18 +41,15 @@
 
 </div>
 
-
-</div>
-
 ---
 
 ## 🛠️ İlgi Alanlarım / What I Love
 
-- 🔁 CQRS & MediatR
-- 🔧 Clean Architecture (Onion / Hexagonal)
-- 📬 Event-driven systems (RabbitMQ, SignalR)
-- 📦 Uygulama Geliştirme
-- 📘 Arayüz Tasarımı
+- 🔁 CQRS & MediatR  
+- 🔧 Clean Architecture (Onion / Hexagonal)  
+- 📬 Event-driven systems (RabbitMQ, SignalR)  
+- 📦 Application Development  
+- 📘 UI / Interface Design  
 
 ---
 
@@ -54,4 +65,6 @@
 
 ---
 
-<p align="center"> Daha fazlası için projelerime göz at</p>
+<p align="center">
+  ⭐ Daha fazlası için projelerime göz at
+</p>
