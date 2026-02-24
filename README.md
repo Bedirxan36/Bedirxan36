@@ -34,22 +34,6 @@ Hello, I'm **Bedirhan Doğan**, a 17-year-old software developer focused on mast
 
 I prioritize clean architecture, scalable systems, and high-performance applications.  
 I build backend services, management systems, and event-driven architectures.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bedirxan36&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bedirxan36&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedirxan36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
-
 ---
 
 ## 🧰 Tech Stack
