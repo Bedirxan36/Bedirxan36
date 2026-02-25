@@ -80,7 +80,7 @@ I build backend services, management systems, and event-driven architectures.
 
 ## 🐍 Katkı Faaliyeti
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Syrins/Syrins/output/syrins-neon-dark.svg" alt="Neon Dark Animation" width="850px" />
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Neon Dark Animation" width="850px" />
 </div>
 
 ---
