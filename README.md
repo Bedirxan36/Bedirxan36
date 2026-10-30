@@ -1,7 +1,7 @@
 <!-- ==================== HERO SECTION ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,18,25,30&height=180&section=header&text=BEDİRHAN%20DOĞAN&fontSize=50&fontColor=fff&animation=scaleIn&fontAlignY=50&desc=Software%20Developer%20|%20.NET%20Enthusiast&descSize=18&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:7f5af0,100:00f0ff&height=220&section=header&text=BEDİRHAN%20DOĞAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20.NET%20Specialist&descSize=16&descColor=00f0ff&descAlignY=62" width="100%" />
 </p>
 
 <p align="center">
