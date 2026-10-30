@@ -1,27 +1,29 @@
 <!-- ==================== HERO SECTION ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:7f5af0,100:00f0ff&height=220&section=header&text=BEDİRHAN%20DOĞAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20.NET%20Specialist&descSize=16&descColor=00f0ff&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:111e38,100:1e1b4b&height=200&section=header&text=Bedirhan%20Doğan&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=01%20//%20BACKEND%20DEVELOPER%20&%20.NET%20SPECIALIST&descSize=15&descColor=94a3b8&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi,+I'm+Bedirhan+Dogan+👋;Building+High-Performance+.NET+Systems+⚡;Clean+Architecture+%26+Microservices+Architect+🏛️;Turning+Complex+Problems+Into+Code+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=.NET%20Ecosystem%20Specialist%20⚡;Clean%20Architecture%20&%20Design%20Patterns%20🏛️;Event-Driven%20Microservices%20🚀;Turning%20Code%20Into%20High-Performance%20Systems%20💻" />
 </p>
 
 ---
 
-## ⚡ Quick Overview / Hızlı Bakış
+## 01 // HAKKIMDA & MANİFESTO
 
 <div align="center">
-  <table style="border: none;">
+  <table width="100%" style="border: none;">
     <tr>
-      <td align="center" width="50%">
+      <td width="50%" align="left" valign="top">
         <h3>🇹🇷 Türkçe</h3>
-        <p>17 yaşında tutkulu bir <b>Yazılım Geliştirici</b>yim.<br>Özellikle <b>.NET ekosistemi</b>, temiz mimari (Clean Architecture) ve ölçeklenebilir backend sistemleri üzerine odaklanıyorum.</p>
+        <p>17 yaşında bir <b>Yazılım Geliştirici</b>yim. Karmaşık problemleri temiz kod, sürdürülebilir mimariler ve yüksek performanslı backend servisleriyle çözüyorum.</p>
+        <p><b>Odak Noktalarım:</b> .NET Ekosistemi, Clean Architecture, RabbitMQ ve ölçeklenebilir sistem mimarileri.</p>
       </td>
-      <td align="center" width="50%">
+      <td width="50%" align="left" valign="top">
         <h3>🇬🇧 English</h3>
-        <p>A 17-year-old passionate <b>Software Developer</b>.<br>Focused on the <b>.NET ecosystem</b>, clean architecture, and building scalable backend systems.</p>
+        <p>A 17-year-old <b>Software Developer</b>. I solve complex problems through clean code, sustainable architectures, and high-performance backend services.</p>
+        <p><b>Focus Areas:</b> .NET Ecosystem, Clean Architecture, RabbitMQ, and scalable system designs.</p>
       </td>
     </tr>
   </table>
@@ -29,62 +31,57 @@
 
 ---
 
-## 🧰 Tech Stack & Skills
+## 02 // TECH STACK & ARCHITECTURE
 
 <div align="center">
 
-### 🚀 Backend & Core Architecture
-<img src="https://skillicons.dev/icons?i=cs,dotnet,rabbitmq,py,java,git,linux&theme=dark" />
+### 🛠️ Backend & Core
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![MediatR](https://img.shields.io/badge/MediatR-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/jbogard/MediatR)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![SignalR](https://img.shields.io/badge/SignalR-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)
 
-<br>
-
-### 🛠️ Frameworks, Tools & Databases
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![MediatR](https://img.shields.io/badge/MediatR-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/jbogard/MediatR)
-[![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/)
-
-<br>
-
-### 🌐 Frontend & Security
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![Parrot OS](https://img.shields.io/badge/Parrot_OS-1f1f1f?style=for-the-badge&logo=parrot-security&logoColor=05c7f2)](https://www.parrotsec.org/)
+### 🌐 Frontend & Other Tools
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 03 // STATS & METRICS
 
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bedirxan36&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=131722&title_color=00F0FF&text_color=FFFFFF" alt="Bedirhan's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bedirxan36&theme=react&hide_border=true&background=131722&stroke=00F0FF&sideLabels=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bedirxan36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=090d16&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bedirxan36&theme=tokyonight&hide_border=true&background=090d16&stroke=38BDF8&sideLabels=true" alt="GitHub Streak" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedirxan36&layout=compact&theme=react&hide_border=true&bg_color=131722&title_color=00F0FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedirxan36&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
 </p>
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 04 // ROADMAP & GOALS
 
-- 📚 **Mastering Advanced .NET Concepts & Microservices**
-- 🧠 **Deep Dive into Distributed Systems & Event-Driven Architecture**
-- ☁️ **Exploring Cloud Computing, Docker & DevOps Pipelines**
-- 🚀 **Building Production-Ready, Large-Scale Scalable Projects**
+- [x] Master Core C# & OOP Principles
+- [ ] Deep Dive into Distributed Systems & Microservices
+- [ ] Advanced DevOps & Docker Containerization
+- [ ] Building Enterprise-Scale Production Projects
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 05 // CONTRIBUTION ACTIVITY
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Snake Animation" width="850px" />
@@ -92,26 +89,18 @@
 
 ---
 
-## 📫 Let's Connect With Me
+## 06 // CONTACT & CONNECT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bedirxan-do%C4%9Fan-27238a314/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/bedirhan_dogan36/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/Bedirxan36">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedirxan-do%C4%9Fan-27238a314/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bedirhan_dogan36/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bedirxan36)
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,25,18,11,6&height=100&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:090d16,100:1e1b4b&height=80&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontColor=38bdf8&animation=fadeIn" width="100%" />
+</p>
