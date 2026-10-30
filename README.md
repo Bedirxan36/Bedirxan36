@@ -24,19 +24,21 @@
 
 ---
 
-## 🛠️ Animasyonlu Tech Stack & Yetenekler
+## 🛠️ Tech Stack & Yetenekler
 
 <div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,rabbitmq,py,java,git,linux&theme=dark" />
-</p>
+### 💻 Backend & Core Architecture
+<img src="https://skillicons.dev/icons?i=cs,dotnet,rabbitmq,py,java,git,linux&theme=dark" />
 
+<br>
+
+### 🚀 Frameworks & Tools
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![MediatR](https://img.shields.io/badge/MediatR-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/jbogard/MediatR)
 [![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![MS SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/)
 
 </div>
 
